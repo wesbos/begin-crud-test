@@ -7,6 +7,7 @@ snow-lfa
 get /todos
 post /todos
 post /todos/delete
+get /wes
 
 @tables
 data
